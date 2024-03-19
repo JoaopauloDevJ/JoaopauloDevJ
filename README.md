@@ -1,5 +1,5 @@
 - 👋 Olá eu sou o João Paulo, sou Desenvolvedor Full Stack Java
-- 👀 Interesses profissionais Full Stack, desenvolvimento Front end e programação Java
+- 👀 Interesses profissionais desenvolvimento de software, desenvolvimento Front end e programação Java
 - 🌱 Atualmente estudo na EBAC, curso profissionalizante de Desenvolvimento Full Stack Java 
 
 - 💻 Buscando migrar para área de desenvolvimento, curso desenvolvimento Full Stack Java na EBAC, me aperfeiçoando e me dedicando para ter a oportunidade de me torna um profissional capacitado.
