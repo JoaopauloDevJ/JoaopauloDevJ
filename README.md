@@ -2,7 +2,7 @@
 - 👀 Interesses profissionais Full Stack, desenvolvimento Front end e programação Java
 - 🌱 Atualmente estudo na EBAC, curso profissionalizante de Desenvolvimento Full Stack Java 
 
-- 💞️ Estou procurando colaborar com crescimento da empreza através do meu conhecimento técnico, proatividade, ética e comprometimento. Tudo isso aliado a uma atitude focada no aprendizado contínuo e na busca por melhores resultados.
+- 💻 Buscando migrar para área de desenvolvimento, curso desenvolvimento Full Stack Java na EBAC, me aperfeiçoando e me dedicando para ter a oportunidade de me torna um profissional capacitado.
 
 <!---
 JoaopauloDevJ/JoaopauloDevJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
