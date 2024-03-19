@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <img height='175px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopauloDevJ&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-<div display='flex'>
+<div display='flex' align-itens='center'>
     <img height='50px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
     <img height='40px' src='https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png' alt='HTML' />
