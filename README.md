@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
     <img height='40px' src='https://logospng.org/download/javascript/logo-javascript-icon-1024.png' alt='Javascript' />
     <img height='50px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
-    <img height='50px' src='https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg' alt='Node.JS' />
+    <img height='40px' src='https://img1.gratispng.com/20180716/ohk/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6a88d27.2128590215317498306904.jpg' />
 </div>
