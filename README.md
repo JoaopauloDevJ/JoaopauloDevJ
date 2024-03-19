@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
     <img height='40px' src='https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png' alt='HTML' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='CSS' />
-    <img height='45px' src='https://logospng.org/download/javascript/logo-javascript-icon-1024.png' alt='Javascript' />
+    <img height='40px' src='https://logospng.org/download/javascript/logo-javascript-icon-1024.png' alt='Javascript' />
 </div>
