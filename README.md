@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div display='flex'>
-    <img height='70px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
-    <img height='70px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React'/>
+    <img height='50px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
+    <img height='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React'/>
 </div>
