@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
     <img height='40px' src='https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png' alt='HTML' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='CSS' />
-    <img height='40px' src='https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language-thumbnail.jpg' alt='JavaScript' />
+    <img height='40px' src='https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg' alt='JavaScript' />
     <img height='40px' src='https://img2.gratispng.com/20180712/ubw/kisspng-node-js-javascript-computer-icons-nodes-5b47e105a8f144.144832551531437317692.jpg' alt='Node.JS' />
 </div>
