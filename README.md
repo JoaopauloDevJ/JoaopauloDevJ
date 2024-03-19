@@ -20,6 +20,5 @@ You can click the Preview link to take a look at your changes.
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
     <img height='40px' src='https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png' alt='HTML' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='CSS' />
-    <img height='40px' src='https://img1.gratispng.com/20180917/rgp/kisspng-javascript-logo-product-design-brand-5ba01d73939020.8888235615372199556044.jpg' alt='JavaScript' />
-    <img height='40px' src='https://img2.gratispng.com/20180712/ubw/kisspng-node-js-javascript-computer-icons-nodes-5b47e105a8f144.144832551531437317692.jpg' alt='Node.JS' />
+    <img height='40px' src='https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png' alt='Javascript' />
 </div>
