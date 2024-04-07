@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <img height='175px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopauloDevJ&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-<div display='flex' justify-content='space-between'>
+<div display='flex'>
     <img height='35px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png' alt='VueJS' />
     <img height='40px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
