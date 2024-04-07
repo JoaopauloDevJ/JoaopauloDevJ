@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     <img height='40px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
     <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
     <img height='40px' margin-right='10px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='Javascript' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' alt='Typescript'/>
+    <img height='40px' margin-right='10px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML' />
+    <img height='40px' margin-right='10px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='Javascript' />
+    <img height='40px' margin-right='10px' src='https://raw.gi thubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' alt='Typescript'/>
 </div>
