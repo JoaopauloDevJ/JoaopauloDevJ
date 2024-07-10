@@ -2,7 +2,7 @@
 - 👀 Interesses profissionais desenvolvimento de software, analista de sistemas, desenvolvimento Front end(Principalmente React ou VueJS) e programação Java
 - 🌱 Atualmente estudo na EBAC, curso profissionalizante de Desenvolvimento Full Stack Java 
 
-- 💻 Buscando migrar para área de desenvolvimento de software, optei por estudar Java na EBAC me aperfeiçoando e me dedicando para ter a oportunidade de me torna um profissional capacitado.
+- 💻 Buscando migrar para área de desenvolvimento de software, optei por estudar Java na EBAC, me aperfeiçoando e me dedicando para ter a oportunidade de me torna um profissional capacitado.
 
 <!---
 JoaopauloDevJ/JoaopauloDevJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
