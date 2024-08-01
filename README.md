@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div display='flex'>
-    <img height='48px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
+    <img height='44px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
     <img height='40px' src='https://www.javadevjournal.com/wp-content/uploads/2018/02/spring-icon-200x196.png' alt='Spring' />
     <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS' />
     <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML' />
