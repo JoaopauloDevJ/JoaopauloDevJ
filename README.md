@@ -1,6 +1,6 @@
 - 👋 Olá eu sou o João Paulo, sou Desenvolvedor Full Stack
 - 👀 Interesses profissionais desenvolvimento de software, analista de sistemas, desenvolvimento Front end e back end com ênfase em Java
-- 🌱 Atualmente estudo na EBAC, curso profissionalizante de Desenvolvimento Full Stack Java 
+- 🌱 Atualmente trabalho como desewnvolvedor web Front End para a empresa Allinsys. 
 
 - 💻 Buscando migrar para área de desenvolvimento de software, optei por estudar Java na EBAC, me aperfeiçoando e me dedicando para ter a oportunidade de me torna um profissional capacitado.
 
