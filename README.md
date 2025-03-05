@@ -1,8 +1,9 @@
 - 👋 Olá eu sou o João Paulo, sou Desenvolvedor Full Stack
-- 👀 Interesses profissionais desenvolvimento de software, analista de sistemas, desenvolvimento Front end e back end com ênfase em Java
-- 🌱 Atualmente trabalho como desewnvolvedor web Front End para a empresa Allinsys. 
+- 
+- 👀 Tenho interesses pelas áreas de Back End Java, Front End, Analista de Sistemas, Cloud AWS
+- 
+- 🌱 Também atuo como Desenvolvedor Front End na Allinsys
 
-- 💻 Buscando migrar para área de desenvolvimento de software, optei por estudar Java na EBAC, me aperfeiçoando e me dedicando para ter a oportunidade de me torna um profissional capacitado.
 
 <!---
 JoaopauloDevJ/JoaopauloDevJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
