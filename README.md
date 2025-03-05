@@ -1,7 +1,7 @@
-- 👋 Olá eu sou o João Paulo, sou Desenvolvedor Full Stack
-- 
+- 👋 Olá eu sou João Paulo, sou Desenvolvedor Full Stack
+
 - 👀 Tenho interesses pelas áreas de Back End Java, Front End, Analista de Sistemas, Cloud AWS
-- 
+ 
 - 🌱 Também atuo como Desenvolvedor Front End na Allinsys
 
 
