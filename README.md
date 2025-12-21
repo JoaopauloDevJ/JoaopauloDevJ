@@ -1,8 +1,6 @@
-- 👋 Olá eu sou João Paulo, sou Desenvolvedor Full Stack
-- 📚 Bacharelado em Engenharia de Software 1/8
+- 👋 Olá eu sou João Paulo, sou Desenvolvedor
+- 📚 Bacharelado em Engenharia de Software 2/8
 - 👀 Tenho interesses pelas áreas de Back End Java, Front End, Analista de Sistemas, Cloud AWS
-
-- 🌱 Também atuo como Desenvolvedor Front End no grupo PASS
 
 
 <!---
