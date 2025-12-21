@@ -1,7 +1,5 @@
-- 👋 Olá eu sou João Paulo, sou Desenvolvedor
+- 👋 Olá eu sou João Paulo, sou Desenvolvedor de Software
 - 📚 Bacharelado em Engenharia de Software 2/8
-- 👀 Tenho interesses pelas áreas de Back End Java, Front End, Analista de Sistemas, Cloud AWS
-
 
 <!---
 JoaopauloDevJ/JoaopauloDevJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
