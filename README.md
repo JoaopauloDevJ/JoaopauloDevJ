@@ -14,11 +14,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando Bacharelado em Engenharia de Software (2º de 8 semestres)
-- 🔭 Atualmente estudando: **Java, Spring Boot, React e TypeScript**
+- 🎓 Cursando Bacharelado em Engenharia de Software (3º de 8 semestres)
+- 🔭 Atualmente estudando: **Python, Modelos de Software**
 - 🌱 Aprofundando em boas práticas, Git e arquitetura de software
-- 🤝 Aberto a estágios, projetos open source e networking
-- 💬 Pergunte-me sobre: Java, TypeScript e desenvolvimento web
 
 ---
 
@@ -31,7 +29,7 @@
 | Área | Tecnologias |
 | **Back-end** | Java, Spring |
 | **Front-end** | JavaScript, TypeScript, React, Next.js |
-| **Ferramentas** | Git, GitHub |
+| **Ferramentas** | Git, GitHub, Grunt |
 
 ---
 
