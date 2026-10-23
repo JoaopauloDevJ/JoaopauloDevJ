@@ -35,7 +35,6 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JoaopauloDevJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopauloDevJ&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
