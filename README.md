@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engenharia_de_Software-2%C2%BA%2F8%C2%BA_semestre-blue?style=for-the-badge" alt="Graduação" />
+  <img src="https://img.shields.io/badge/Bacharelado_em_Engenharia_de_Software-3%C2%BA%2F8%C2%BA_semestre-blue?style=for-the-badge" alt="Graduação" />
   <img src="https://img.shields.io/badge/Foco-Full_Stack-ff69b4?style=for-the-badge" alt="Foco" />
   <img src="https://komarev.com/ghpvc/?username=JoaopauloDevJ&label=Visitas&color=blueviolet&style=for-the-badge" alt="Visitas" />
 </p>
