@@ -1,24 +1,58 @@
-- 👋 Olá eu sou João Paulo, sou Desenvolvedor de Software
-- 📚 Bacharelado em Engenharia de Software 2/8
+<h1 align="center">Olá, eu sou João Paulo 👋</h1>
 
-<!---
-JoaopauloDevJ/JoaopauloDevJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Desenvolvedor de Software em formação, apaixonado por construir aplicações web completas, do back-end ao front-end.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-2%C2%BA%2F8%C2%BA_semestre-blue?style=for-the-badge" alt="Graduação" />
+  <img src="https://img.shields.io/badge/Foco-Full_Stack-ff69b4?style=for-the-badge" alt="Foco" />
+  <img src="https://komarev.com/ghpvc/?username=JoaopauloDevJ&label=Visitas&color=blueviolet&style=for-the-badge" alt="Visitas" />
+</p>
 
-<div align='center'>
-    <img height='175px' src="https://github-readme-stats.vercel.app/api?username=JoaopauloDevJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height='175px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopauloDevJ&layout=compact&langs_count=7&theme=dracula" />
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando Bacharelado em Engenharia de Software (2º de 8 semestres)
+- 🔭 Atualmente estudando: **Java, Spring Boot, React e TypeScript**
+- 🌱 Aprofundando em boas práticas, Git e arquitetura de software
+- 🤝 Aberto a estágios, projetos open source e networking
+- 💬 Pergunte-me sobre: Java, TypeScript e desenvolvimento web
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vue&perline=9" alt="Tecnologias" />
+</p>
+
+| Área | Tecnologias |
+| **Back-end** | Java, Spring |
+| **Front-end** | JavaScript, TypeScript, React, Next.js |
+| **Ferramentas** | Git, GitHub |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JoaopauloDevJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopauloDevJ&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
-<div display='flex' justify-content='space-between' align-items='center'>
-    <img height='44px' src='https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png' alt='Java' />
-    <img height='40px' src='https://www.javadevjournal.com/wp-content/uploads/2018/02/spring-icon-200x196.png' alt='Spring' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='Javascript' />
-    <img height='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' />
-    <img height='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' alt='Typescript'/>
-    <img height='35px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png' alt='VueJS' />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaopauloDevJ&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaopaulodevjava/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joaopaulo.santos_souza@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
