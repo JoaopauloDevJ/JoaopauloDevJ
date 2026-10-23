@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou João Paulo 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Software em formação, apaixonado por construir aplicações web completas, do back-end ao front-end.
+  Desenvolvedor de Software com 2 anos de experiência, com foco em qualidade, performance e aprimoramento contínuo.
 </p>
 
 <p align="center">
